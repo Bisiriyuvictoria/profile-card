@@ -1,0 +1,33 @@
+
+
+h2{
+  text-align: center;
+}
+
+
+.headgreet{
+    margin: 0px 200px ;
+}
+
+.section1{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple;
+}
+
+.section2{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+marquee{
+  background-color: #87ceeb;
+  font-size: 17px;
+  padding: 8px;
+}

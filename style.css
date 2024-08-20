@@ -1,0 +1,106 @@
+h1{
+  background-color: purple;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  border: 5px solid purple ;
+  margin: 0px  489px;
+  border-radius: 40px;
+}
+
+h2{
+  color: purple;
+  font-size: 40px;
+}
+
+.headgreet{
+  margin: 0px 200px ;
+}
+
+.section1{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.section2{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple;
+}
+
+
+.section3{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple;
+}
+
+.section4{
+  display: flex;
+  margin: 0px 200px;
+  border: 3px solid purple; 
+}
+
+footer{
+  text-align: center;
+  border: 1px solid purple;
+  background-color: purple;
+  color: white;
+}
+
+#mclogin{
+  font-size: 60px;
+  margin-bottom: 0px;
+}
+
+#mclogintext{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+#username{
+  padding: 16px 170px 16px 12px;
+  border-radius: 6px;
+}
+
+#password{
+  padding: 16px 170px 16px 12px;
+  border-radius: 6px;
+}
+
+#login{
+padding: 15px 150px;
+border-radius: 6px;
+background-color: purple;
+color: white;
+}
+
+#forgottenpass,a{
+  text-align: center;
+  text-decoration: none;
+}
+
+#creatnaccount{
+  text-align: center;
+  font-weight: bold;
+}
+
+#creatnaccount a{
+  padding: 18px 50px;
+  background-color: plum;
+  color: white;
+  border: 1px solid plum;
+  border-radius: 6px;
+}
+
